@@ -7,7 +7,7 @@
 </p>
 
 <h1>Network File Shares & Permissions</h1>
-The following below highlights the skills and abilities that I possess in regards to Network File Sharing and Permissions. It showcases skills in configuring network file shares and assiging permissions.<br />
+The following below highlights the skills and abilities that I possess in regards to Network File Sharing and Permissions. It showcases skills in configuring network file shares and assigning permissions.<br />
 
 
 <h2>Environments and Technologies Used</h2>
